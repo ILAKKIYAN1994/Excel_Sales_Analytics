@@ -47,8 +47,8 @@ Align financial planning with strategic goals and instill stakeholder confidence
 - [**Loan Recommendation Suggestor**](https://github.com/ILAKKIYAN1994/Excel_Sales_Analytics/blob/main/2_Loan_Recommendation_Suggestor.pdf) 
 - [**Hotel Performance Report**](https://github.com/ILAKKIYAN1994/Excel_Sales_Analytics/blob/main/3_Hotel_Performance_Report.pdf)
 - [**Hotel Platform Report**](https://github.com/ILAKKIYAN1994/Excel_Sales_Analytics/blob/main/4_Hotel_Platform_Report.pdf)
-- [**Project Priority Matrix** – Business Application**](https://github.com/ILAKKIYAN1994/Excel_Sales_Analytics/blob/main/16_Project_Priority_Matrix_Business_Applications.pdf)
-- [**Scenario Planning Tool** – Business Application**](https://github.com/ILAKKIYAN1994/Excel_Sales_Analytics/blob/main/17_Scenario_Planning_Tool_Business_Applications.pdf)
+- [**Project Priority Matrix**](https://github.com/ILAKKIYAN1994/Excel_Sales_Analytics/blob/main/16_Project_Priority_Matrix_Business_Applications.pdf)
+- [**Scenario Planning Tool**](https://github.com/ILAKKIYAN1994/Excel_Sales_Analytics/blob/main/17_Scenario_Planning_Tool_Business_Applications.pdf)
 ---
 
 # 🛠️ Technical (Hard) Skills
